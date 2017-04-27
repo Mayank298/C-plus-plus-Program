@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\assignment\sem2\oop244\workshop6\oop-workshop6\at_home\consoleapplication1\source.cpp(8): warning C4700: uninitialized local variable 'fp' used
+  ConsoleApplication1.vcxproj -> C:\Assignment\Sem2\OOP244\workshop6\OOP-Workshop6\at_home\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Assignment\Sem2\OOP244\workshop6\OOP-Workshop6\at_home\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

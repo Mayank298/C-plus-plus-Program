@@ -1,0 +1,9 @@
+steps       What to do in that steps.
+1)    	Open your visual studio (ide).
+2)    	Select new project from the file -> New -> project.
+3)    	Select your language and console application.
+4)    	Uncheck the Create directory for solution. Then click ok.
+5)    	Click on the next button.
+6)    	Now uncheck security development lifecycle(SDL), precompiled Header and click on Finish.
+7)    	Now from the solution Explorer Right click on the source and select add new item and add cpp or header file.
+8)    	Now you are in your new cpp or header file.

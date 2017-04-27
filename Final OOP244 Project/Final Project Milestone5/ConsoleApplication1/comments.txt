@@ -1,0 +1,5 @@
+I dint copy any function from any one. One time i took help of the lab assistance in milestone 4 and that time i update my milestones date class. and for milestone 1 function write of date.cpp.
+i didnt get the space read by cin so i use google to read. Because i totaly forgot that cin doesnt read space. For load function i take help from the Rachana.
+
+I am submitting this program because its doesnt match my output with the professor output.
+and some function doesnt match my output with professors output.

@@ -1,0 +1,10 @@
+1) String capacity is the size of the char array while the length is the actual string length which is used by the string element.
+   yes its still work if we are giving string a more capacity then actual length. rest of the string element will become a null.
+   
+2) Its always good to use the library which is given by the system. it is possible that own library may contain any bug so may be
+    it can stop our program.
+
+3) Yes we need to set the String first to safe empty state its show that string is empty and it have only null value.
+   yes we need to clean the memory at the end of the class. No we can not add two string with the possible data loss.
+   its easy to use string rather then always using the char pointer or char array.
+   

@@ -1,0 +1,5 @@
+﻿  CreditCard.cpp
+c:\assignment\sem2\oop244\workshop3\oop-workshop3\at_home\creditcard.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  at_home.vcxproj -> C:\Assignment\Sem2\OOP244\workshop3\OOP-Workshop3\at_home\Debug\at_home.exe
+  at_home.vcxproj -> C:\Assignment\Sem2\OOP244\workshop3\OOP-Workshop3\at_home\Debug\at_home.pdb (Full PDB)

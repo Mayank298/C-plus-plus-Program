@@ -1,0 +1,110 @@
+﻿  244_w9_lab_prof.cpp
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(6): error C2871: 'sict': a namespace with this name does not exist
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(13): error C2065: 'String': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(13): error C2146: syntax error: missing ';' before identifier 's'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(13): error C3861: 's': identifier not found
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(14): error C2065: 'String': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(14): error C2146: syntax error: missing ';' before identifier 's2'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(14): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(17): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(17): error C2228: left of '.empty' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(17): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(17): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(27): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(27): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(36): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(36): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(36): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(36): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(42): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(43): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(43): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(46): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(47): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(48): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(49): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(50): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(51): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(52): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(53): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(54): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(55): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(56): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(59): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(59): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(60): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(60): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(62): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(62): error C3861: 'String': identifier not found
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(71): error C2065: 'String': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(71): error C2146: syntax error: missing ';' before identifier 's3'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(71): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(71): error C3861: 's3': identifier not found
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(72): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(72): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(82): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(83): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(83): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(83): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(84): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(85): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(85): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(85): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(86): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(86): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(86): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(87): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(87): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(87): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(88): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(88): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(88): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(89): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(89): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(89): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(90): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(90): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(90): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(91): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(91): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(91): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(92): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(92): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(92): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(93): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(93): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(93): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(94): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(94): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(94): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(95): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(95): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(95): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(96): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(96): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(96): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(97): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(97): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(97): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(98): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(98): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(98): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(99): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(99): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(99): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(100): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(100): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(100): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(101): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(101): error C2065: 's2': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(101): error C2065: 's3': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(102): error C2065: 's': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(102): error C2228: left of '.length' must have class/struct/union
+  c:\users\mayank\desktop\244_w9_lab_prof.cpp(102): note: type is 'unknown-type'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(108): error C2065: 'String': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(108): error C2146: syntax error: missing ';' before identifier 'myInput'
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(108): error C2065: 'myInput': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(111): error C2065: 'myInput': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(112): error C2065: 'myInput': undeclared identifier
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(112): error C3861: 'String': identifier not found
+c:\users\mayank\desktop\244_w9_lab_prof.cpp(123): error C2065: 'myInput': undeclared identifier

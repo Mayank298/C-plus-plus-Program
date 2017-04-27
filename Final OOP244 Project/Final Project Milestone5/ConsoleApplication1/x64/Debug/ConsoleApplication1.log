@@ -1,0 +1,4 @@
+﻿  PosApp.cpp
+c:\assignment\sem2\oop244\milestone\final\consoleapplication1\posapp.cpp(218): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ConsoleApplication1.vcxproj -> C:\Assignment\Sem2\OOP244\Milestone\Final\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Assignment\Sem2\OOP244\Milestone\Final\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Full PDB)

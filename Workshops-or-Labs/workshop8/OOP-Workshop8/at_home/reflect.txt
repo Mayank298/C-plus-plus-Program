@@ -1,0 +1,6 @@
+1) Abstract class can only have the member function declaration but not having defination of the member function.
+   While concrete class contain the actual defination of the abstract class member function defination.
+
+2) Pure vitual function use to point the current or latest defination of the member function of the class.
+
+3) In this worshop i learn Polymorphism.

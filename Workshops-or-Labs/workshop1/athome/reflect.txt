@@ -1,0 +1,8 @@
+1) namespace: Namespace is use to declare part that provide
+   the scope to the variables and functions.Its use to 
+   organize code into logical group and use for prevent 
+   from the name collisions in program.
+
+2) header file are needed to access for the standard input 
+   output and to access the service or declaation of the 
+   function or any spacial input output function.

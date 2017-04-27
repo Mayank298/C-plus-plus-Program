@@ -1,0 +1,5 @@
+1) if the both object are same then its hard to copy object into its self.
+2) To copy one object into other object it require the opy constructor as well as assignment operator.
+   if we copying the object at the creation time of object then we need copy constructor. while in other case we need
+   copy assignment operator.
+3) Avoiding duplication of code in needed for the same code use for different purpose. or use of same block of code again and again.

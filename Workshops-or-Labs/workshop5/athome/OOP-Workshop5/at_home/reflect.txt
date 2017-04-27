@@ -1,0 +1,8 @@
+1) operator += return fraction because it is will change the current object
+   like is we a+=1; in any for loop increment the value of the a. Same as 
+   this example it change the value of the object of Class Fraction which 
+   called this operator+= function.
+2) B+3 in lab part it auto convert into the integer into right side operand 
+   type.
+3) In this workshop i learn the operator overloading and also learn type 
+   converter and also learn member function.

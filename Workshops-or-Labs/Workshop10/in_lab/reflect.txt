@@ -1,0 +1,52 @@
+Q:1
+1) Runtime polymorphism.
+2) Compile-time Polymorphism.
+3) overloading : Function overloading, operator overloading;
+4) Casting: type casting. implicit and explicit casting.
+
+Q:2
+- Templates provide static/compile time polymorphism.
+
+Q:3
+
+- it simply delete the template of function.
+
+Q:4
+
+1) Operator overloading
+2) Reference
+3) const value and const function.
+4) iostream overloading.
+5) moduler programming.
+6) class.
+7) encapsulation.
+8) polymorphism.
+
+Q:5
+
+- Yes the quizzes help me to complete my reading of that week.
+
+Q:6
+
+- Yes the programming ideas and the different types of solution of same programming.
+
+Q:7
+
+- None.
+
+Q:8
+
+- Yes, If may be the course offer the final project at the starting of the semester so everyone can work from the starting.
+- else nothing.
+
+Q:9
+
+- Very Good.
+
+Q:10
+
+- Yes, i enjoyed it Because everytime its improve my programming style and logic as well as improve my knowledge about the subject.
+
+Q:11
+
+- Just Right.

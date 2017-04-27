@@ -1,0 +1,10 @@
+Q:1)Sefe empty state is setting a object to the non valid state. 
+    Like for integer is set to the zero or and for any char to set to the null pointer.
+	for Passenger 
+	We can set char array of name or destination to set to 0 or'\0' or to nullptr
+	everyone are same.
+Q:2)If the Passenger having more then one constructors the for default constructors
+    will set object to Safe empty, while the constructors with argument will set the 
+    value to the valid state for that object.
+Q:3)In this workshop i learned what is constructors and how to overload the constructors
+    and also learn what is the safe empty state is and how it work with object.

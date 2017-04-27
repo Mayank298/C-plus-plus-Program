@@ -1,0 +1,10 @@
+
+In line number 157 of your output:
+The output should be:
+| 2222   |a                   |   1.00| TP|   1|     1.13|
+But your output is: 
+|        |2222                |   0.00| TP|-1079274648|    -0.00|
+  ^
+--|
+Professor's character ASCII code: hex(32), dec(50)
+un-matched character ASCII code: hex(20), dec(32)

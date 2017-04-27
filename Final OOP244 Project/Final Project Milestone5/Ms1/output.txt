@@ -1,0 +1,205 @@
+Script started on Sun 23 Apr 2017 04:10:27 PM EDT
+mspatel27@matrix:~/oop244/milestone/ms5> fp
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 1
+ Row | SKU    | Item Name          | Price |TX |Qty |   Total |
+-----|--------|--------------------|-------|---|----|---------|
+-----^--------^--------------------^-------^---^----^---------^
+                                Total Asset: $ |             0|
+-----------------------------------------------^--------------^
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 2
+Perishable Item Entry:
+Sku: a
+Name:
+a
+Price: 1
+Taxed: y
+Quantity: 1
+Expiry date (YYYY/MM/DD): 2015/10/10
+Item Added.
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 1
+ Row | SKU    | Item Name          | Price |TX |Qty |   Total |
+-----|--------|--------------------|-------|---|----|---------|
+   1 | a      |a                   |   1.00| TP|   1|     1.13|
+-----^--------^--------------------^-------^---^----^---------^
+                                Total Asset: $ |          1.13|
+-----------------------------------------------^--------------^
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 3
+Item Entry:
+Sku: 1^H   b
+Name:
+b
+Price: 1
+Taxed: n
+Quantity: 1
+Item Added.
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 1
+ Row | SKU    | Item Name          | Price |TX |Qty |   Total |
+-----|--------|--------------------|-------|---|----|---------|
+   1 | a      |a                   |   1.00| TP|   1|     1.13|
+   2 | b      |b                   |   1.00|  N|   1|     1.00|
+-----^--------^--------------------^-------^---^----^---------^
+                                Total Asset: $ |          2.13|
+-----------------------------------------------^--------------^
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 5
+Please enter the SKU: a
+Name:
+a
+Sku: a
+Price: 1.00
+Price after tax: 1.13
+Quantity: 1
+Total Cost: 1.13
+Expiry date: 2015/10/10
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 1
+ Row | SKU    | Item Name          | Price |TX |Qty |   Total |
+-----|--------|--------------------|-------|---|----|---------|
+   1 | a      |a                   |   1.00| TP|   1|     1.13|
+   2 | b      |b                   |   1.00|  N|   1|     1.00|
+-----^--------^--------------------^-------^---^----^---------^
+                                Total Asset: $ |          2.13|
+-----------------------------------------------^--------------^
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 5
+Please enter the SKU: b
+Name:
+b
+Sku: b
+Price: 1.00
+Price after tax: N/A
+Quantity: 1
+Total Cost: 1.00
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 1^H   5
+Please enter the SKU: a
+Name:
+a
+Sku: a
+Price: 1.00
+Price after tax: 1.13
+Quantity: 1
+Total Cost: 1.13
+Expiry date: 2015/10/10
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 1
+ Row | SKU    | Item Name          | Price |TX |Qty |   Total |
+-----|--------|--------------------|-------|---|----|---------|
+   1 | a      |a                   |   1.00| TP|   1|     1.13|
+   2 | b      |b                   |   1.00|  N|   1|     1.00|
+-----^--------^--------------------^-------^---^----^---------^
+                                Total Asset: $ |          2.13|
+-----------------------------------------------^--------------^
+
+The Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 2
+Perishable Item Entry:
+Sku: q
+Name:
+q
+Price: q
+Invalid Price EntryThe Sene-Store
+1- List items
+2- Add Perishable item
+3- Add Non - Perishable item
+4- Update item quantity
+5- Show Item
+6- POS
+0- exit program
+> 
+Goodbye!
+mspatel27@matrix:~/oop244/milestone/ms5> exit
+exit
+
+Script done on Sun 23 Apr 2017 04:12:20 PM EDT

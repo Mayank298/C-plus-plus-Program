@@ -1,0 +1,17 @@
+ /*is >> m_year;
+      is.ignore(1, '/');
+      is >> m_mon;
+      is.ignore(1, '/');
+      is >> m_day;
+      is.ignore(2, ' ');
+      is >> m_hour;
+      is.ignore(1, '/');
+      is >>m_min;*/
+
+
+
+   /* is >> m_year;
+      is.ignore(1,'/');
+      is >> m_mon;
+      is.ignore(1,'/');
+      is >> m_day;*/
